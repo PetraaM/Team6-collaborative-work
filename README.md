@@ -1,7 +1,7 @@
 # SEO improvement and best practices
 
 This is a simple recipe app built with React. It utilizes an API to fetch recipe data and display it to users. This project was developed as part of a practice exercise to implement SEO improvements and best practices.
-
+![App Screenshot](public/Hungry-chef.png)
 Features:
 
 Browse through a collection of recipes.
